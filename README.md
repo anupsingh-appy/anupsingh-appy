@@ -26,20 +26,6 @@
 
 ---
 
-## 📂 Projects
-
-### 📌 Vrinda Store Data Analysis
-- Excel-based sales analysis project
-- Customer segmentation and sales insights
-- Interactive dashboard and business recommendations
-
-### 📌 CarDekho SQL Data Analysis
-- SQL-based analysis of used car dataset
-- Insights on pricing, fuel type, and ownership trends
-- Business analysis using MySQL queries
-
----
-
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/anup-singh-114362229
 - GitHub: https://github.com/anupsingh-appy
